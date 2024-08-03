@@ -22,6 +22,12 @@
   
 }
 
+.section-title{
+  font-size: 48px;
+  font-weight: 700;
+  color: #131313;
+}
+
 /* header styles */
 header{
   background-color: rgb(255,144,14,0.10);
@@ -33,10 +39,7 @@ nav{
   align-items: center;
 }
 
-.nav-title{
-  font-size: 48px;
-  font-weight: 700;
-}
+
 nav> ul{
   display: flex;
 }
